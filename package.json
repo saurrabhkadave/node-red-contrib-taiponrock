@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "description": "Node description",
+  "main": "node.js",
+  "scripts": {
+    "test": "No input required"
+  },
+  "node-red": {
+     "nodes": {
+       "taiponrock": "node.js"
+     }
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurrabhkadave/node-red-contrib-taiponrock.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "npm account",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurrabhkadave/node-red-contrib-taiponrock/issues"
+  },
+  "homepage": "https://github.com/saurrabhkadave/node-red-contrib-taiponrock#readme"
+}
